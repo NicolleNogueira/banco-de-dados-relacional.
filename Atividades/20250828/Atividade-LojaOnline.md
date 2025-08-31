@@ -1,5 +1,9 @@
-Loja online de eletrônicos com cupom 
+Loja online de eletrônicos com cupons
 
-[IDF0 A-0](./Captura%20de%20tela%202025-08-31%20004742.png)
+Entrega 1 - IDF0
 
-[IDF0 A0](./Captura%20de%20tela%202025-08-31%20005044.png)
+[A-0](./Captura%20de%20tela%202025-08-31%20004742.png)
+
+[A0](./Captura%20de%20tela%202025-08-31%20005044.png)
+
+
