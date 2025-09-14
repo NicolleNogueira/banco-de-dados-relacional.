@@ -1,4 +1,4 @@
-Atividade DDL
+Atividade DDL Oracle.live.SQL
 
 Tabela 1 [imagem1](./eb41add4-2bf4-4da2-9157-82b430895779.jpg)
 
