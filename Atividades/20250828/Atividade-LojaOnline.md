@@ -1,4 +1,4 @@
-Loja online de eletrônicos com cupons
+Loja online de eletrônicos com cupons - 28/08/2025
 
 Entrega 1 - IDF0
 
