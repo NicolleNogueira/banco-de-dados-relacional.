@@ -1,4 +1,4 @@
-Atividade DDL Oracle.live.SQL
+Atividade DDL Oracle.live.SQL - 04/09/2025
 
 Tabela 1 [imagem1](./eb41add4-2bf4-4da2-9157-82b430895779.jpg)
 
