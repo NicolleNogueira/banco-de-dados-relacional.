@@ -1,6 +1,6 @@
 1) Inserindo dados de clientes
 
-INSERT INTO CLIENTES (Nome, Email) VALUES ('Nicolle Nogueira', 'nicolle.nsilva@gmail.br');
+INSERT INTO CLIENTES (Nome, Email) VALUES ('Nicolle Nogueira', 'nicolle.nsilva@gmail.com');
 INSERT INTO CLIENTES (Nome, Email) VALUES ('Sofia Almeida', 'sofi.almeda@hotmail.com');
 INSERT INTO CLIENTES (Nome, Email) VALUES ('Jose Campos', 'joao.cm@hotmail.com);
 
@@ -22,4 +22,5 @@ WHEN MATCHED THEN
 WHEN NOT MATCHED THEN 
     INSERT (Nome, Email)
     VALUES (B.Nome, B.Email);
+
 
