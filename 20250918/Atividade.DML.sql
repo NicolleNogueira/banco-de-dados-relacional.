@@ -2,7 +2,7 @@
 
 INSERT INTO CLIENTES (Nome, Email) VALUES ('Nicolle Nogueira', 'nicolle.nsilva@gmail.com');
 INSERT INTO CLIENTES (Nome, Email) VALUES ('Sofia Almeida', 'sofi.almeda@hotmail.com');
-INSERT INTO CLIENTES (Nome, Email) VALUES ('Jose Campos', 'joao.cm@hotmail.com);
+INSERT INTO CLIENTES (Nome, Email) VALUES ('Jose Campos', 'jose.cm.hotmail.com');
 
 2) Atualizando preços de produtos
 
