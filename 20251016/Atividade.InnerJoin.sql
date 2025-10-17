@@ -29,3 +29,13 @@ INNER JOIN CLIENTES c
 GROUP BY c.estado
 HAVING SUM(v.valor) >2000
 
+4 - Exiba, para cada cliente, a categoria em que ele mais comprou (por valor total).
+
+SELECT
+    c.nome AS clientes,
+    SUM(v.valor) AS total_gastos,
+    v.categoria
+FROM VENDAS v
+INNER JOIN CLIENTES c
+    ON c.id_cliente = v.id_cliente
+GROUP BY c.nome, categoria;
