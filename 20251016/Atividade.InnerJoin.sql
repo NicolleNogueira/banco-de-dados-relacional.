@@ -37,5 +37,10 @@ SELECT
     v.categoria
 FROM VENDAS v
 INNER JOIN CLIENTES c
-    ON c.id_cliente = v.id_cliente
-GROUP BY c.nome, categoria;
+ON c.id_cliente = v.id_cliente
+GROUP BY c.nome, categoria, v.id_cliente
+HAVING SUM(v.valor) = (
+   SELECT MAX(SUM(v2.valor))
+   FROM VENDAS v2
+   WHERE v2.id_cliente = v.id_cliente
+   GROUP BY v2.categoria
